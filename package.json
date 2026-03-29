@@ -1,0 +1,17 @@
+{
+  "name": "facebook-messenger-openai-mvp",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "ollama:pull": "ollama pull llama3.2:1b",
+    "ollama:list": "ollama list",
+    "ollama:serve": "ollama serve"
+  },
+  "dependencies": {
+    "next": "16.2.1",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  }
+}

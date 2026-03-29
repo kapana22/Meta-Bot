@@ -1,0 +1,188 @@
+{
+  "conversations": [
+    {
+      "id": "local-test-user",
+      "senderId": "local-test-user",
+      "title": "Facebook user stuser",
+      "status": "open",
+      "unreadCount": 0,
+      "lastMessageText": "?????????",
+      "lastMessageAt": "2026-03-28T09:22:13.731Z",
+      "botReplyCount": 0,
+      "createdAt": "2026-03-28T09:22:13.731Z",
+      "updatedAt": "2026-03-28T10:56:32.420Z",
+      "messages": [
+        {
+          "id": "1774689733731-sxqqug",
+          "direction": "incoming",
+          "senderType": "customer",
+          "text": "?????????",
+          "source": "facebook",
+          "createdAt": "2026-03-28T09:22:13.731Z"
+        }
+      ]
+    },
+    {
+      "id": "34343437151967118",
+      "senderId": "34343437151967118",
+      "title": "Luka Kapanadze",
+      "firstName": "Luka",
+      "lastName": "Kapanadze",
+      "fullName": "Luka Kapanadze",
+      "profilePic": "https://platform-lookaside.fbsbx.com/platform/profilepic/?eai=Aa1hXeLgVLUcJhUxa2t9vlLvWmmFBnX9L9nQ_gWeItllXm0oWGWZkfVmEPMLW7-JNXqnytMlSRnR&psid=34343437151967118&width=1024&ext=1777287506&hash=AT8bfw5TEiMXgv_AcFHs2fdi",
+      "status": "open",
+      "unreadCount": 0,
+      "lastMessageText": "კი, სარეკლამო კამპანიების დაგეგმვასა და მართვაში დაგეხმარებით. მომწერე რა ბიზნესზე ან მიზანზე გინდა მუშაობა.",
+      "lastMessageAt": "2026-03-28T10:58:27.164Z",
+      "botReplyCount": 0,
+      "createdAt": "2026-03-28T09:54:59.812Z",
+      "updatedAt": "2026-03-28T13:00:22.817Z",
+      "messages": [
+        {
+          "id": "m_MXd9UOsP64ewg207Vri14OzIa-hjFu4kLh52mDrEJG37l4_YABu6ZkZ9Yw7gslBTze48Sv5frVEMxLNe_YKOhQ",
+          "direction": "incoming",
+          "senderType": "customer",
+          "text": "გამარჯობა",
+          "source": "facebook",
+          "createdAt": "2026-03-28T09:54:59.812Z"
+        },
+        {
+          "id": "1774691701428-c9mg1g",
+          "direction": "outgoing",
+          "senderType": "bot",
+          "text": "გამარჯობა. თქვენ მოგვწერეთ Yumade-ს. რით დაგეხმაროთ?",
+          "source": "facebook",
+          "createdAt": "2026-03-28T09:55:01.428Z"
+        },
+        {
+          "id": "m_3pXmbGnjDYisbC6aOmA7MOzIa-hjFu4kLh52mDrEJG2U8nCuC5ksHWYU0YPVap8ofvyWcuk1s5KQjdQZc1GHyw",
+          "direction": "incoming",
+          "senderType": "customer",
+          "text": "gamarjoba",
+          "source": "facebook",
+          "createdAt": "2026-03-28T09:55:07.668Z"
+        },
+        {
+          "id": "1774691720458-klsf35",
+          "direction": "outgoing",
+          "senderType": "bot",
+          "text": "Yumade-ს შესახებ ზუსტ დეტალს ოპერატორი გადაამოწმებს. თუ გინდათ, მომწერეთ კითხვა მოკლედ.",
+          "source": "facebook",
+          "createdAt": "2026-03-28T09:55:20.458Z"
+        },
+        {
+          "id": "m_FVkCf3FOH8mM2Jm_tJB0dOzIa-hjFu4kLh52mDrEJG3JX2W7-srXke96j8_SJ2ZcLwv5RJmJYJH5yg2EAaVLGA",
+          "direction": "outgoing",
+          "senderType": "agent",
+          "text": "პრობლემა გვაქვს რამე?",
+          "source": "facebook",
+          "createdAt": "2026-03-28T09:59:25.959Z"
+        },
+        {
+          "id": "m_UzrtJ5fWoYNCU3B-mNI4JOzIa-hjFu4kLh52mDrEJG1HDcy4qrRCPFdUEIQnuuY77wW90Ghq37tSPp2aNgDHQA",
+          "direction": "incoming",
+          "senderType": "customer",
+          "text": "კი პრობლემა მაქვს.",
+          "source": "facebook",
+          "createdAt": "2026-03-28T09:59:40.619Z"
+        },
+        {
+          "id": "m_uW0RKLzh9iD4cFCUN8x2LuzIa-hjFu4kLh52mDrEJG0YSnIN0w4Z2jxuN-o5SL4mZnW_2FlcR51pyjqIMBrzVw",
+          "direction": "outgoing",
+          "senderType": "agent",
+          "text": "რას შვები რავახხარ",
+          "source": "facebook",
+          "createdAt": "2026-03-28T10:03:34.631Z"
+        },
+        {
+          "id": "m_PGFyEl_GJ_I7UA3TDTCVduzIa-hjFu4kLh52mDrEJG1RGH3Vl5SNEJPz5TohnhJ_oYm0CHQ2H3CgECWFxrrY5A",
+          "direction": "incoming",
+          "senderType": "customer",
+          "text": "კარგად შენ როგორ ხარ.",
+          "source": "facebook",
+          "createdAt": "2026-03-28T10:03:50.749Z"
+        },
+        {
+          "id": "1774692243353-2sqmj2",
+          "direction": "outgoing",
+          "senderType": "bot",
+          "text": "მიულა, ვის თქვებ კარგად შენ როგორ ხარ.",
+          "source": "facebook",
+          "createdAt": "2026-03-28T10:04:03.353Z"
+        },
+        {
+          "id": "m_mHkq9XF2fnAP9qt0AJr8d-zIa-hjFu4kLh52mDrEJG0i7s1kyDcYBR8LCVyGcwOJYVGVHUshlPn-PGVycz-5oQ",
+          "direction": "incoming",
+          "senderType": "customer",
+          "text": "გამარჯობა",
+          "source": "facebook",
+          "createdAt": "2026-03-28T10:55:40.421Z"
+        },
+        {
+          "id": "m_arcDGaAE5pRVFPL2RJkUsuzIa-hjFu4kLh52mDrEJG2NJofziuxKeF7P4rRsR6hmOREwnDTcn1l3x73xU5375g",
+          "direction": "outgoing",
+          "senderType": "agent",
+          "text": "რა გაინტერესებთ",
+          "source": "facebook",
+          "createdAt": "2026-03-28T10:56:07.485Z"
+        },
+        {
+          "id": "m_QPHR3HWUt3wXYvs248VgvuzIa-hjFu4kLh52mDrEJG1e4yfJel8IoZaTDkXCepkgZVKWkYziQC8ZXXy_Ic3l6Q",
+          "direction": "incoming",
+          "senderType": "customer",
+          "text": "რა კომპანია ხართ",
+          "source": "facebook",
+          "createdAt": "2026-03-28T10:56:27.522Z"
+        },
+        {
+          "id": "m__o4pXnYhOUWuH8oC71lCgOzIa-hjFu4kLh52mDrEJG2s6eDic9HcBN7TQcDNTVfQ6v8dzoITBKbebcrFxF50Fg",
+          "direction": "incoming",
+          "senderType": "customer",
+          "text": "გამარჯობა",
+          "source": "facebook",
+          "createdAt": "2026-03-28T10:57:28.440Z"
+        },
+        {
+          "id": "1774695449477-b4sjpv",
+          "direction": "outgoing",
+          "senderType": "bot",
+          "text": "გამარჯობა. თქვენ მოგვწერეთ Yumade-ს. რით დაგეხმაროთ?",
+          "source": "facebook",
+          "createdAt": "2026-03-28T10:57:29.477Z"
+        },
+        {
+          "id": "m_0fi_Y37BhKDLqPjGPc9UZ-zIa-hjFu4kLh52mDrEJG0kB7EAubIaG1VwiCxFuH7PLHcpPRcm-gg-zy0KGKeSTg",
+          "direction": "incoming",
+          "senderType": "customer",
+          "text": "რა სერვისები გაქვთ?",
+          "source": "facebook",
+          "createdAt": "2026-03-28T10:57:41.331Z"
+        },
+        {
+          "id": "1774695474416-r8u16d",
+          "direction": "outgoing",
+          "senderType": "bot",
+          "text": "Yumade-ს შესახებ ზუსტ დეტალს ოპერატორი გადაამოწმებს. თუ გინდათ, მომწერეთ კითხვა მოკლედ.",
+          "source": "facebook",
+          "createdAt": "2026-03-28T10:57:54.416Z"
+        },
+        {
+          "id": "m_rNLJyLHvAFrTO_pFF4m9EuzIa-hjFu4kLh52mDrEJG21NirP1aNGw13TC8SMbilEaNrNHjV-ZVgNIkrFEK_RwA",
+          "direction": "incoming",
+          "senderType": "customer",
+          "text": "Meta რეკლამას აკეთებთ?",
+          "source": "facebook",
+          "createdAt": "2026-03-28T10:58:26.199Z"
+        },
+        {
+          "id": "1774695507164-n92y7y",
+          "direction": "outgoing",
+          "senderType": "bot",
+          "text": "კი, სარეკლამო კამპანიების დაგეგმვასა და მართვაში დაგეხმარებით. მომწერე რა ბიზნესზე ან მიზანზე გინდა მუშაობა.",
+          "source": "facebook",
+          "createdAt": "2026-03-28T10:58:27.164Z"
+        }
+      ]
+    }
+  ]
+}
